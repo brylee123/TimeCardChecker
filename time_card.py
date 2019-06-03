@@ -12,7 +12,17 @@ cyanb = "\033[1;36m"
 coff = "\033[0m" 
 
 raw_timecard = []
-with open('tc3.3.csv', newline='') as csvfile:
+
+####################################################
+filename = 'tc5.28'
+####################################################
+
+openfile = filename + '.csv'
+outputfile = filename + '_output.csv'
+
+print(openfile)
+
+with open(openfile, newline='') as csvfile:
 	raw_csv = csv.reader(csvfile, delimiter=' ', quotechar='|')
 	date_is_found = False
 	for row in raw_csv:
@@ -98,6 +108,7 @@ dual_employee = False
 # Employee ID = (Date, Hours)
 dual_accounts[2] = ([],[])
 dual_accounts[3] = ([],[])
+dual_accounts[4] = ([],[])
 dual_accounts[5] = ([],[])
 dual_accounts[9] = ([],[])
 dual_accounts[14] = ([],[])
@@ -106,7 +117,8 @@ dual_accounts[25] = ([],[])
 
 dual_account_hldr = ["Huang (Runner), Joanne","Huang (Hostess), Joanne","Lee, Barry","Lee (Bar), Barry",
 					 "Wu (Runner), Raymond","Wu (Expo), Raymond","Wu (Runner), Jonathan","Wu (Expo), Jonathan",
-					 "Zheng (Bar), Jason","Zheng (Expo), Jason","Lau (Bar), Stanley", "Lau (Host), Stanley"]
+					 "Zheng (Bar), Jason","Zheng (Expo), Jason","Lau (Bar), Stanley", "Lau (Host), Stanley",
+					 "Huang (Runner), Jay", "Huang (Expo), Jay"]
 dual_id = 0
 
 
@@ -126,6 +138,8 @@ for line in raw_timecard:
 				dual_id = 2
 			elif employee_name in ["Wu (Runner), Jonathan","Wu (Expo), Jonathan"]:
 				dual_id = 3
+			elif employee_name in ["Huang (Runner), Jay", "Huang (Expo), Jay"]:
+				dual_id = 4			
 			elif employee_name in ["Xiao (Server), Danny","Xiao (Expo), Danny"]:
 				dual_id = 5
 			elif employee_name in ["Huang (Runner), Joanne","Huang (Hostess), Joanne"]:
@@ -276,6 +290,8 @@ for employee in dual_accounts:
 						employee_name = "Zheng (Bar), Jason"
 					elif employee == 3:
 						employee_name = "Wu (Runner), Jonathan"
+					elif employee == 4:
+						employee_name = "Huang (Runner), Jay"
 					elif employee == 5:
 						employee_name = "Xiao (Server), Danny"
 					elif employee == 9:
@@ -298,20 +314,21 @@ for em in employees.items():
 	print(em)
 
 
-file = open("testfile.csv","w")
+file = open(outputfile,"w")
 #file.write("")
 payroll_order =["Rowley, Theresa", 
 				"Zheng (Expo), Jason",
 				"Zheng (Bar), Jason",
 				"Wu (Runner), Jonathan",
 				"Wu (Expo), Jonathan",
-				"Huang, Jay",
+				"Huang (Runner), Jay",
+				"Huang (Expo), Jay",
 				"Xiao (Expo), Danny",
 				"Xiao (Server), Danny",
 				"Ho, Calvin",
 				"Huang, William",
-				"Huang (Runner), Joanne",
 				"Huang (Hostess), Joanne",
+				"Huang (Runner), Joanne",
 				"Chiu, Kenny",
 				"Loh, Ngan",
 				"Wu (Runner), Raymond",
@@ -327,27 +344,17 @@ payroll_order =["Rowley, Theresa",
 				"Chow, Joe",
 				"Chen, Kelly",
 				"Lau (Bar), Stanley",
-				"Lau (Host), Stanley"] 
+				"Lau (Host), Stanley",
+				"Wang, Liz",
+				"Sak, Jeff",
+				"Ruan, Sam"]
 
+print("\n==================================")
+print("Employee,Hours,OT Hours,Split Hour")
+print("==================================")
 file.write("Employee,Hours,OT Hours,Split Hour\n")
 for employee in payroll_order:
 	if employee in employees.keys():
 		string = "\""+employee+"\","+str(employees[employee][0])+","+str(employees[employee][1])+","+str(employees[employee][2])+"\n"
+		print(string[:-1])
 		file.write(string)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
