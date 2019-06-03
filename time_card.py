@@ -14,7 +14,7 @@ coff = "\033[0m"
 raw_timecard = []
 
 ####################################################
-filename = 'tc5.28'
+filename = 'tc6.3'
 ####################################################
 
 openfile = filename + '.csv'
@@ -335,7 +335,8 @@ payroll_order =["Rowley, Theresa",
 				"Wu (Expo), Raymond",
 				"Lee, Barry",
 				"Lee (Bar), Barry",
-				"Fong, Ming",
+				"Fong (Host), Ben",
+				"Fong (Runner), Ben",
 				"Chen, Yu",
 				"Jyoti, Annie",
 				"Lam, Sanhoi",
@@ -347,7 +348,8 @@ payroll_order =["Rowley, Theresa",
 				"Lau (Host), Stanley",
 				"Wang, Liz",
 				"Sak, Jeff",
-				"Ruan, Sam"]
+				"Ruan, Sam",
+				"Li, Zheng Hao"]
 
 print("\n==================================")
 print("Employee,Hours,OT Hours,Split Hour")
