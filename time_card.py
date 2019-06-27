@@ -14,7 +14,7 @@ coff = "\033[0m"
 raw_timecard = []
 
 ####################################################
-filename = 'tc6.3'
+filename = 'tc6.24'
 ####################################################
 
 openfile = filename + '.csv'
@@ -104,7 +104,6 @@ split_hr = 0
 dual_accounts = {}
 dual_employee = False
 
-
 # Employee ID = (Date, Hours)
 dual_accounts[2] = ([],[])
 dual_accounts[3] = ([],[])
@@ -113,12 +112,13 @@ dual_accounts[5] = ([],[])
 dual_accounts[9] = ([],[])
 dual_accounts[14] = ([],[])
 dual_accounts[16] = ([],[])
+dual_accounts[24] = ([],[])
 dual_accounts[25] = ([],[])
 
 dual_account_hldr = ["Huang (Runner), Joanne","Huang (Hostess), Joanne","Lee, Barry","Lee (Bar), Barry",
 					 "Wu (Runner), Raymond","Wu (Expo), Raymond","Wu (Runner), Jonathan","Wu (Expo), Jonathan",
 					 "Zheng (Bar), Jason","Zheng (Expo), Jason","Lau (Bar), Stanley", "Lau (Host), Stanley",
-					 "Huang (Runner), Jay", "Huang (Expo), Jay"]
+					 "Huang (Runner), Jay", "Huang (Expo), Jay", "Chen (Busser), Kelly", "Chen (Expo), Kelly"]
 dual_id = 0
 
 
@@ -148,6 +148,8 @@ for line in raw_timecard:
 				dual_id = 14
 			elif employee_name in ["Lee, Barry","Lee (Bar), Barry"]:
 				dual_id = 16
+			elif employee_name in ["Chen (Busser), Kelly", "Chen (Expo), Kelly"]:
+				dual_id = 24
 			elif employee_name in ["Lau (Bar), Stanley", "Lau (Host), Stanley"]:
 				dual_id = 25
 			dual_employee = True
@@ -300,6 +302,8 @@ for employee in dual_accounts:
 						employee_name = "Wu (Runner), Raymond"
 					elif employee == 16:
 						employee_name = "Lee (Bar), Barry"
+					elif employee == 24:
+						employee_name = "Chen (Busser), Kelly"
 					elif employee == 25:
 						employee_name = "Lau (Bar), Stanley"
 
@@ -343,7 +347,8 @@ payroll_order =["Rowley, Theresa",
 				"Ming, William",
 				"Chin, Peter",
 				"Chow, Joe",
-				"Chen, Kelly",
+				"Chen (Busser), Kelly",
+				"Chen (Expo), Kelly",
 				"Lau (Bar), Stanley",
 				"Lau (Host), Stanley",
 				"Wang, Liz",
