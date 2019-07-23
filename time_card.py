@@ -14,7 +14,7 @@ coff = "\033[0m"
 raw_timecard = []
 
 ####################################################
-filename = 'tc6.24'
+filename = 'tc7.23'
 ####################################################
 
 openfile = filename + '.csv'
@@ -110,23 +110,32 @@ dual_accounts[3] = ([],[])
 dual_accounts[4] = ([],[])
 dual_accounts[5] = ([],[])
 dual_accounts[9] = ([],[])
+dual_accounts[11] = ([],[])
 dual_accounts[14] = ([],[])
 dual_accounts[16] = ([],[])
 dual_accounts[24] = ([],[])
 dual_accounts[25] = ([],[])
+dual_accounts[29] = ([],[])
+dual_accounts[31] = ([],[])
 
-dual_account_hldr = ["Huang (Runner), Joanne","Huang (Hostess), Joanne","Lee, Barry","Lee (Bar), Barry",
-					 "Wu (Runner), Raymond","Wu (Expo), Raymond","Wu (Runner), Jonathan","Wu (Expo), Jonathan",
-					 "Zheng (Bar), Jason","Zheng (Expo), Jason","Lau (Bar), Stanley", "Lau (Host), Stanley",
-					 "Huang (Runner), Jay", "Huang (Expo), Jay", "Chen (Busser), Kelly", "Chen (Expo), Kelly"]
+dual_account_hldr = ["Zheng (Bar), Jason", "Zheng (Expo), Jason",
+					 "Wu (Runner), Jonathan", "Wu (Expo), Jonathan",
+					 "Huang (Runner), Jay", "Huang (Expo), Jay",
+					 "Xiao (Server), Danny","Xiao (Expo), Danny",
+					 "Huang (Runner), Joanne", "Huang (Hostess), Joanne",
+					 "Chiu (Bar), Kenny", "Chiu (Server), Kenny",
+					 "Wu (Runner), Raymond", "Wu (Expo), Raymond",
+					 "Lee, Barry", "Lee (Bar), Barry",
+					 "Chen (Busser), Kelly", "Chen (Expo), Kelly",
+					 "Lau (Bar), Stanley", "Lau (Host), Stanley",
+					 "Li, Nick1", "Li, Nick2", 
+					 "Cao (Busser), David", "Cao (Delivery), David"]
 dual_id = 0
-
-
 
 for line in raw_timecard:
 	total_hours = 0
 	
-	if re.search("\"([A-Z]|[a-z]| |\,|\(|\)|)+\"", line):
+	if re.search("\"([A-Z]|[a-z]|[0-9]| |\,|\(|\)|)+\"", line):
 		#print(line) # All active employees
 		employee_name = line[1:-1]
 		employees[employee_name] = []
@@ -144,6 +153,8 @@ for line in raw_timecard:
 				dual_id = 5
 			elif employee_name in ["Huang (Runner), Joanne","Huang (Hostess), Joanne"]:
 				dual_id = 9
+			elif employee_name in ["Chiu (Bar), Kenny","Chiu (Server), Kenny"]:
+				dual_id = 11
 			elif employee_name in ["Wu (Runner), Raymond","Wu (Expo), Raymond"]:
 				dual_id = 14
 			elif employee_name in ["Lee, Barry","Lee (Bar), Barry"]:
@@ -152,6 +163,10 @@ for line in raw_timecard:
 				dual_id = 24
 			elif employee_name in ["Lau (Bar), Stanley", "Lau (Host), Stanley"]:
 				dual_id = 25
+			elif employee_name in ["Li, Nick1", "Li, Nick2"]:
+				dual_id = 29
+			elif employee_name in ["Cao (Busser), David", "Cao (Delivery), David"]:
+				dual_id = 31
 			dual_employee = True
 		continue
 
@@ -298,6 +313,8 @@ for employee in dual_accounts:
 						employee_name = "Xiao (Server), Danny"
 					elif employee == 9:
 						employee_name = "Huang (Hostess), Joanne"
+					elif employee == 11:
+						employee_name = "Chiu (Server), Kenny"
 					elif employee == 14:
 						employee_name = "Wu (Runner), Raymond"
 					elif employee == 16:
@@ -306,6 +323,10 @@ for employee in dual_accounts:
 						employee_name = "Chen (Busser), Kelly"
 					elif employee == 25:
 						employee_name = "Lau (Bar), Stanley"
+					elif employee == 29:
+						employee_name = "Li, Nick1"
+					elif employee == 31:
+						employee_name = "Cao (Busser), David"
 
 					employees[employee_name][2]+=1
 
@@ -313,10 +334,16 @@ for employee in dual_accounts:
 
 print("\n=========================================================\n")
 
+empty_tc = []
+for em_k in employees.keys():
+	if employees[em_k] == []:
+		empty_tc.append(em_k)
+		continue
+	print(em_k+": ", employees[em_k])
 
-for em in employees.items():
-	print(em)
-
+for eid in empty_tc:
+	del employees[eid]
+	print("Popped", eid, "for not having a clock in.")
 
 file = open(outputfile,"w")
 #file.write("")
@@ -333,8 +360,10 @@ payroll_order =["Rowley, Theresa",
 				"Huang, William",
 				"Huang (Hostess), Joanne",
 				"Huang (Runner), Joanne",
-				"Chiu, Kenny",
+				"Chiu (Bar), Kenny",
+				"Chiu (Server), Kenny",
 				"Loh, Ngan",
+				"Tse, Tony",
 				"Wu (Runner), Raymond",
 				"Wu (Expo), Raymond",
 				"Lee, Barry",
@@ -354,7 +383,14 @@ payroll_order =["Rowley, Theresa",
 				"Wang, Liz",
 				"Sak, Jeff",
 				"Ruan, Sam",
-				"Li, Zheng Hao"]
+				"Li, Nick1",
+				"Yeh, Raymond",
+				"Cao (Busser), David", 
+				"Cao (Delivery), David",
+				"Ming, Mui Chuen",
+				"Li, Nick2"
+				"Choi, Joseph",
+				"Chen, Johnny"]
 
 print("\n==================================")
 print("Employee,Hours,OT Hours,Split Hour")
