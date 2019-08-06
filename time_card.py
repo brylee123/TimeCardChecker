@@ -14,7 +14,7 @@ coff = "\033[0m"
 raw_timecard = []
 
 ####################################################
-filename = 'tc7.23'
+filename = 'tc8.6'
 ####################################################
 
 openfile = filename + '.csv'
@@ -322,7 +322,7 @@ for employee in dual_accounts:
 					elif employee == 24:
 						employee_name = "Chen (Busser), Kelly"
 					elif employee == 25:
-						employee_name = "Lau (Bar), Stanley"
+						employee_name = "Lau (Host), Stanley"
 					elif employee == 29:
 						employee_name = "Li, Nick1"
 					elif employee == 31:
@@ -388,7 +388,7 @@ payroll_order =["Rowley, Theresa",
 				"Cao (Busser), David", 
 				"Cao (Delivery), David",
 				"Ming, Mui Chuen",
-				"Li, Nick2"
+				"Li, Nick2",
 				"Choi, Joseph",
 				"Chen, Johnny"]
 
