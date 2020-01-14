@@ -14,7 +14,7 @@ coff = "\033[0m"
 raw_timecard = []
 
 ####################################################
-filename = 'tc8.6'
+filename = 'tc1.6'
 ####################################################
 
 openfile = filename + '.csv'
@@ -118,7 +118,7 @@ dual_accounts[25] = ([],[])
 dual_accounts[29] = ([],[])
 dual_accounts[31] = ([],[])
 
-dual_account_hldr = ["Zheng (Bar), Jason", "Zheng (Expo), Jason",
+dual_account_hldr = ["Zheng (Bar), Jason", "Zheng (Expo), Jason", "Zheng (Takeout), Jason"
 					 "Wu (Runner), Jonathan", "Wu (Expo), Jonathan",
 					 "Huang (Runner), Jay", "Huang (Expo), Jay",
 					 "Xiao (Server), Danny","Xiao (Expo), Danny",
@@ -143,7 +143,7 @@ for line in raw_timecard:
 		print(employee_name)
 		if employee_name in dual_account_hldr:
 			print("This is a dual employee")
-			if employee_name in ["Zheng (Bar), Jason","Zheng (Expo), Jason"]:
+			if employee_name in ["Zheng (Bar), Jason","Zheng (Expo), Jason", "Zheng (Takeout), Jason"]:
 				dual_id = 2
 			elif employee_name in ["Wu (Runner), Jonathan","Wu (Expo), Jonathan"]:
 				dual_id = 3
@@ -304,7 +304,7 @@ for employee in dual_accounts:
 				if dual_accounts[employee][1][i]+dual_accounts[employee][1][j+i+1] > 8: # Use index to find total hours
 					#print(dual_accounts[employee][1][i], "+",dual_accounts[employee][1][j+i+1], "SPLIT HOUR")
 					if employee == 2:
-						employee_name = "Zheng (Bar), Jason"
+						employee_name = "Zheng (Expo), Jason"
 					elif employee == 3:
 						employee_name = "Wu (Runner), Jonathan"
 					elif employee == 4:
@@ -349,6 +349,7 @@ file = open(outputfile,"w")
 #file.write("")
 payroll_order =["Rowley, Theresa", 
 				"Zheng (Expo), Jason",
+				"Zheng (Takeout), Jason",
 				"Zheng (Bar), Jason",
 				"Wu (Runner), Jonathan",
 				"Wu (Expo), Jonathan",
@@ -356,10 +357,7 @@ payroll_order =["Rowley, Theresa",
 				"Huang (Expo), Jay",
 				"Xiao (Expo), Danny",
 				"Xiao (Server), Danny",
-				"Ho, Calvin",
 				"Huang, William",
-				"Huang (Hostess), Joanne",
-				"Huang (Runner), Joanne",
 				"Chiu (Bar), Kenny",
 				"Chiu (Server), Kenny",
 				"Loh, Ngan",
@@ -383,14 +381,21 @@ payroll_order =["Rowley, Theresa",
 				"Wang, Liz",
 				"Sak, Jeff",
 				"Ruan, Sam",
-				"Li, Nick1",
 				"Yeh, Raymond",
 				"Cao (Busser), David", 
 				"Cao (Delivery), David",
 				"Ming, Mui Chuen",
-				"Li, Nick2",
+				"Li, Nick1",
 				"Choi, Joseph",
-				"Chen, Johnny"]
+				"Chen, Johnny",
+				"Ho, Calvin",
+				"Carullo, Joyce",
+				"Ng, Kin Ping",
+				"Huang (Hostess), Joanne",
+				"Huang (Runner), Joanne",
+				"Fong, Kok Meng",
+				"Cheng, Alan"
+				]
 
 print("\n==================================")
 print("Employee,Hours,OT Hours,Split Hour")
