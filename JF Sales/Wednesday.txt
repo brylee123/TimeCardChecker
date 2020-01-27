@@ -1,0 +1,290 @@
+              Jing Fong
+          380 Amsterdam Ave
+          New york, NY 10024
+            (646) 678-5511
+
+     *** DAILY CLOSING REPORT ***
+     Wednesday, January 22, 2020
+
+--------------------------------------
+            SALES SUMMARY
+     (Refunds Listed Separately)
+--------------------------------------
+BEEF                             61.00
+CHICKEN                         282.95
+DIM SUM                       1,166.95
+LIQUOR AND WINE                 453.00
+NDLES AND RICE                  457.00
+PORK                             48.00
+SEAFOOD                         107.00
+SOUPS AND APPS                  288.00
+SWEET                            28.00
+VEGETABLES                      187.45
+DELIVERY FEES                     0.00
+Surcharges                        0.00
+Order Discounts (Less)          (0.00)
+Cash Discount (Less)            (0.00)
+Credits Redeemed (Less)         (0.00)
+                            ----------
+Food Subtotal:               $2,635.35
+Bar Subtotal:                  $444.00
+                            ----------
+NET SALES:                   $3,079.35
+Variance:                        $0.00
+                            ----------
+Tax 1:                          273.57
+                            ==========
+SUB TOTAL:                   $3,352.92
+
+TOTAL GRATUITIES:               396.79
+                            ==========
+Total:                        3,749.71
+
+--------------------------------------
+  Categorized Item Discount Summary
+--------------------------------------
+                            ==========
+Total Item Discounts:           (0.00)
+
+
+(Amt. Already Included In GROSS SALES)
+
+--------------------------------------
+          Guest Count Report
+--------------------------------------
+Breakfast                     0, 0.00%
+Lunch                       37, 33.00%
+Dinner                      56, 50.00%
+                            ==========
+Total Guests                93, 83.00%
+
+
+**************************************
+     TOTAL EXPECTED NET RECEIPTS
+**************************************
+SUB TOTAL:                   $3,352.92
+                            ==========
+NET RECEIPTS EXPECTED:       $3,352.92
+**************************************
+
+
+======================================
+   TOTAL PAYMENTS RECEIVED SUMMARY
+======================================
+Visa:                        $1,694.32
+      27 Count(s)
+Mastercard:                    $627.38
+      8 Count(s)
+American Express:              $380.53
+      8 Count(s)
+Discover:                       $32.76
+      1 Count(s)
+Gift Cert Redeemed:              $0.00
+      0 Count(s)
+In House Charge:               $566.12
+      13 Count(s)
+Cash:                           $51.81
+      9 Count(s)
+                            ==========
+TOTAL PAYMENTS:              $3,352.92
+
+
+Total Cash:                      51.81
+Total Checks:                     0.00
+Total Room Charges:               0.00
+Total Credit Cards:           2,734.99
+Total Gift Cert Redeemed:         0.00
+Total In House Charges:         566.12
+                            ==========
+TOTAL PAYMENTS:              $3,352.92
+
+
+--------------------------------------
+     POS RECORDED GRATUTIY RECAP
+--------------------------------------
+Joe Chow                       $158.13
+Jeff Sak                        $53.10
+Raymond Yeh                    $185.56
+                            ==========
+TOTAL GRATUITIES:              $396.79
+
+
+--------------------------------------
+               CASHIERS
+--------------------------------------
+Raymond Yeh     10:08:02 AM-3:09:13 PM
+  Station 5               Cash Tray 90
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand         363.67
+                            ----------
+  TOTAL AMOUNT ON HAND:         363.67
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:          $363.67
+  >> DISCREPANCY:         Short $99.03
+  >> DISCREPANCY REASON:
+     eee
+  >> INSPECTED BY:       Stephen Chung
+**************************************
+Jeff Sak        10:24:11 AM-3:02:17 PM
+  Station 5               Cash Tray 84
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand         402.25
+                            ----------
+  TOTAL AMOUNT ON HAND:         402.25
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:          $402.25
+  >> DISCREPANCY:         Short $58.11
+  >> DISCREPANCY REASON:
+     pppp
+  >> INSPECTED BY:       Stephen Chung
+**************************************
+Stephen Chung   12:00:56 PM-6:39:38 PM
+  Station 5                Cash Tray 8
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand           7.63
+                            ----------
+  TOTAL AMOUNT ON HAND:           7.63
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:            $7.63
+**************************************
+Calvin Ho        4:13:22 PM-9:44:36 PM
+  Station 5               Cash Tray 57
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand           0.00
+                            ----------
+  TOTAL AMOUNT ON HAND:           0.00
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:            $0.00
+**************************************
+Joanne Huang (Hostess) 4:22:50 PM-9:06:42 PM
+  Station 3               Cash Tray 60
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand         558.49
+                            ----------
+  TOTAL AMOUNT ON HAND:         558.49
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:          $558.49
+**************************************
+Joe Chow         4:27:57 PM-9:23:41 PM
+  Station 3               Cash Tray 78
+  Total Cash On Hand           -158.13
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,008.33
+                            ----------
+  TOTAL AMOUNT ON HAND:         850.20
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:          $850.20
+**************************************
+Raymond Yeh      4:34:33 PM-9:23:30 PM
+  Station 3               Cash Tray 90
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand         865.86
+                            ----------
+  TOTAL AMOUNT ON HAND:         865.86
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:          $865.86
+  >> DISCREPANCY:          Short $8.30
+  >> DISCREPANCY REASON:
+     rrr
+  >> INSPECTED BY:       Stephen Chung
+**************************************
+Jeff Sak         6:10:20 PM-9:20:24 PM
+  Station 6               Cash Tray 84
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand          94.88
+                            ----------
+  TOTAL AMOUNT ON HAND:          94.88
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:           $94.88
+  >> DISCREPANCY:         Short $44.50
+  >> DISCREPANCY REASON:
+     pppp
+  >> INSPECTED BY:       Stephen Chung
+**************************************
+
+
+**************************************
+      TOTAL NET RECEIPTS ON HAND
+**************************************
+Cash/Check/Credit Cards:     $2,576.86
+Total In House Charges:        $566.12
+                            ==========
+NET RECEIPTS ON HAND:        $3,142.98
+NET RECEIPTS EXPECTED:       -3,352.92
+                            ==========
+Short:                         -209.94
+
+$$$ NET CASH RECEIVABLE $$$  ($158.13)
+
+   (Register start amounts are not
+  included in this receipt section)
+**************************************
+
+
+--------------------------------------
+           VOID ACTIVITIES
+--------------------------------------
+Order #: 77006 8:56:21 PM        13.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: WALNUT OLD FASHIONED
+    Item voided from quantity reduction
+                            ==========
+TOTAL VOIDS:                    $13.00
+
+--------------------------------------
+    EMPLOYEE TIME CARD ACTIVITIES
+--------------------------------------
+Raymond Yeh         11.17 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  10:30:00 AM-9:40:00 PM   Tips: $0.00
+Jeff Sak            11.18 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  10:30:00 AM-9:41:00 PM   Tips: $0.00
+Stephen Chung        0.00 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  12:00:00 PM-12:00:00 PM  Tips: $0.00
+Jason Zheng (Expo)   4.72 HOURS WORKED
+  Estimated Total (Payroll)     $94.40
+  4:30:00 PM-9:13:00 PM    Tips: $0.00
+Ben Fong (Host)      4.82 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  4:30:00 PM-9:19:00 PM    Tips: $0.00
+Joanne Huang (Hostess) 4.85 HOURS WORKED
+  Estimated Total (Payroll)     $72.75
+  4:30:00 PM-9:21:00 PM    Tips: $0.00
+Joe Chow             5.00 HOURS WORKED
+  Estimated Total (Payroll)     $43.25
+  4:30:00 PM-9:30:00 PM    Tips: $0.00
+Calvin Ho            5.23 HOURS WORKED
+  Estimated Total (Payroll)     $45.24
+  4:30:00 PM-9:44:00 PM    Tips: $0.00
+Joseph Choi          4.97 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  4:33:00 PM-9:31:00 PM    Tips: $0.00
+                            ==========
+Total Hours:                     51.94
+Estimated Total:               $255.64
+
+======================================
+TOTAL ORDERS COUNT:                 60
+Order Number:            76960 - 77019
+======================================
+
+     Daily Start Time: 3:00:00 AM
+
+    *** END OF CLOSING REPORT ***

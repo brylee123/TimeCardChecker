@@ -1,0 +1,401 @@
+  Jing Fong
+          380 Amsterdam Ave
+          New york, NY 10024
+            (646) 678-5511
+
+     *** DAILY CLOSING REPORT ***
+      Saturday, January 25, 2020
+
+--------------------------------------
+            SALES SUMMARY
+     (Refunds Listed Separately)
+--------------------------------------
+BEEF                            488.00
+CHICKEN                       1,255.00
+DIM SUM                       6,396.00
+LIQUOR AND WINE               2,227.80
+NDLES AND RICE                2,154.00
+PORK                            367.00
+SEAFOOD                         860.00
+SOUPS AND APPS                  903.00
+SWEET                           182.00
+VEGETABLES                    1,276.00
+DELIVERY FEES                     0.00
+Surcharges                        0.00
+Order Discounts (Less)         (26.00)
+Cash Discount (Less)            (0.00)
+Credits Redeemed (Less)         (0.00)
+                            ----------
+Food Subtotal:              $13,864.00
+Bar Subtotal:                $2,218.80
+                            ----------
+NET SALES:                  $16,082.80
+Variance:                        $0.00
+                            ----------
+Tax 1:                        1,391.34
+                            ==========
+SUB TOTAL:                  $17,474.14
+
+TOTAL GRATUITIES:             2,112.33
+                            ==========
+Total:                       19,586.47
+
+--------------------------------------
+  Categorized Item Discount Summary
+--------------------------------------
+                            ==========
+Total Item Discounts:           (0.00)
+
+
+(Amt. Already Included In GROSS SALES)
+
+--------------------------------------
+          Guest Count Report
+--------------------------------------
+Breakfast                     0, 0.00%
+Lunch                     222, 198.00%
+Dinner                    223, 199.00%
+                            ==========
+Total Guests              445, 397.00%
+
+
+**************************************
+     TOTAL EXPECTED NET RECEIPTS
+**************************************
+SUB TOTAL:                  $17,474.14
+                            ==========
+NET RECEIPTS EXPECTED:      $17,474.14
+**************************************
+
+
+======================================
+   TOTAL PAYMENTS RECEIVED SUMMARY
+======================================
+Visa:                        $9,252.38
+      106 Count(s)
+Mastercard:                  $2,083.10
+      26 Count(s)
+American Express:            $3,703.93
+      42 Count(s)
+Discover:                       $34.48
+      1 Count(s)
+Gift Cert Redeemed:              $0.00
+      0 Count(s)
+In House Charge:             $3,287.55
+      56 Count(s)
+Cash:                        ($887.30)
+      18 Count(s)
+                            ==========
+TOTAL PAYMENTS:             $17,474.14
+
+
+Total Cash:                    -887.30
+Total Checks:                     0.00
+Total Room Charges:               0.00
+Total Credit Cards:          15,073.89
+Total Gift Cert Redeemed:         0.00
+Total In House Charges:       3,287.55
+                            ==========
+TOTAL PAYMENTS:             $17,474.14
+
+
+--------------------------------------
+     POS RECORDED GRATUTIY RECAP
+--------------------------------------
+Jay Huang (Runner)             $287.37
+Calvin Ho                       $71.50
+William Huang                  $393.59
+Jason Zheng (Bar)               $72.12
+Joe Chow                       $530.38
+Joyce Carullo                  $497.30
+Alan Cheng                     $260.07
+                            ==========
+TOTAL GRATUITIES:            $2,112.33
+
+
+--------------------------------------
+               CASHIERS
+--------------------------------------
+Jay Huang (Runner) 10:22:51 AM-4:39:29 PM
+  Station 5               Cash Tray 39
+  Total Cash On Hand           -287.37
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,848.39
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,561.02
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,561.02
+**************************************
+Jason Zheng (Bar) 10:24:06 AM-4:24:46 PM
+  Station 6                Cash Tray 2
+  Total Cash On Hand            223.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,778.98
+                            ----------
+  TOTAL AMOUNT ON HAND:       2,001.98
+  REGISTER START AMOUNT: (Less) 191.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,810.98
+  >> DISCREPANCY:          Over $71.45
+  >> DISCREPANCY REASON:
+     ok
+  >> INSPECTED BY:           Barry Lee
+**************************************
+William Huang   10:24:41 AM-4:30:23 PM
+  Station 5               Cash Tray 59
+  Total Cash On Hand           -164.68
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,602.72
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,438.04
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,438.04
+**************************************
+Joe Chow        10:43:27 AM-3:56:36 PM
+  Station 3               Cash Tray 78
+  Total Cash On Hand           -188.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,507.39
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,319.39
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,319.39
+**************************************
+Joanne Huang (Hostess) 10:43:36 AM-10:20:38 PM
+  Station 3               Cash Tray 60
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand       2,346.98
+                            ----------
+  TOTAL AMOUNT ON HAND:       2,346.98
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $2,346.98
+**************************************
+Joyce Carullo   11:48:18 AM-4:00:44 PM
+  Station 3               Cash Tray 98
+  Total Cash On Hand           -151.75
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,329.65
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,177.90
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,177.90
+**************************************
+Alan Cheng      4:22:06 PM-10:17:26 PM
+  Station 3              Cash Tray 102
+  Total Cash On Hand            300.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,628.41
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,928.41
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,928.41
+  >> DISCREPANCY:         Over $258.47
+  >> DISCREPANCY REASON:
+     Staff Bank Amount Over - Possible from tip accumulations (Auto Approved OK by the system)
+  >> INSPECTED BY:          Alan Cheng
+**************************************
+Joyce Carullo   4:22:50 PM-10:15:30 PM
+  Station 3               Cash Tray 98
+  Total Cash On Hand           -308.53
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,922.99
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,614.46
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,614.46
+**************************************
+Calvin Ho       4:24:33 PM-10:39:03 PM
+  Station 5               Cash Tray 57
+  Total Cash On Hand            -55.16
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,141.56
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,086.40
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,086.40
+**************************************
+Joe Chow        4:26:32 PM-10:15:49 PM
+  Station 5               Cash Tray 78
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,910.97
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,910.97
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,910.97
+  >> DISCREPANCY:         Short $70.23
+  >> DISCREPANCY REASON:
+     
+
+
+
+  >> INSPECTED BY:       Stephen Chung
+**************************************
+William Huang   5:04:12 PM-10:23:27 PM
+  Station 3               Cash Tray 59
+  Total Cash On Hand              0.00
+  Total Checks On Hand            0.00
+  Total Charges On Hand       1,343.40
+                            ----------
+  TOTAL AMOUNT ON HAND:       1,343.40
+  REGISTER START AMOUNT: (Less)   0.00
+                            ==========
+  NET AMOUNT ON HAND:        $1,343.40
+  >> DISCREPANCY:        Short $195.88
+  >> DISCREPANCY REASON:
+     no
+  >> INSPECTED BY:       Stephen Chung
+**************************************
+
+
+**************************************
+      TOTAL NET RECEIPTS ON HAND
+**************************************
+Cash/Check/Credit Cards:    $14,250.40
+Total In House Charges:      $3,287.55
+                            ==========
+NET RECEIPTS ON HAND:       $17,537.95
+NET RECEIPTS EXPECTED:      -17,474.14
+                            ==========
+Over:                            63.81
+
+$$$ NET CASH RECEIVABLE $$$  ($823.49)
+
+   (Register start amounts are not
+  included in this receipt section)
+**************************************
+
+
+--------------------------------------
+           VOID ACTIVITIES
+--------------------------------------
+Order #: 77231 12:11:31 PM        8.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Shrimp Rice Noodles
+    Item voided from quantity reduction
+Order #: 77242 12:01:40 PM       11.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Salt and Pepper Squid
+    Item voided from quantity reduction
+Order #: 77269 2:03:18 PM         7.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Turnip Cake
+    Item voided from quantity reduction
+Order #: 77277 1:39:17 PM        12.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Abalone Rice Noodle
+    Item voided from quantity reduction
+Order #: 77277 1:39:18 PM        18.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Snow Pea Leaves
+    Item voided from quantity reduction
+Order #: 77298 3:19:45 PM         7.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Pork and Vegetable
+    Item voided from quantity reduction
+Order #: 77302 4:20:27 PM         8.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Tsingtao
+    Item voided from quantity reduction
+Order #: 77302 4:20:27 PM         7.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Soup Dumpling
+    Item voided from quantity reduction
+Order #: 77302 4:20:27 PM         8.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Siu Mai
+    Item voided from quantity reduction
+Order #: 77338 6:08:24 PM        51.18
+  Void Reason:     (By: Stephen Chung)
+    double
+Order #: 77354 6:22:57 PM        11.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Salt and Pepper Squid
+    Item voided from quantity reduction
+Order #: 77355 6:15:58 PM        11.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Salt and Pepper Squid
+    Item voided from quantity reduction
+Order #: 77361 6:32:58 PM         2.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Soda COKE
+    Item voided from quantity reduction
+Order #: 77400 7:51:14 PM         9.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: BBQ Beef Skewers
+    Item voided from quantity reduction
+Order #: 77422 9:23:35 PM         7.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Nutella Buns
+    Item voided from quantity reduction
+Order #: 77434 9:36:02 PM        15.00
+  Void Reason:     (By: Stephen Chung)
+    Voided: Pan-Fried Noodles
+    Item voided from quantity reduction
+                            ==========
+TOTAL VOIDS:                   $192.18
+
+--------------------------------------
+            Discount Usage
+--------------------------------------
+                           Total Count
+COMPLIMENTARY                        1
+
+--------------------------------------
+    EMPLOYEE TIME CARD ACTIVITIES
+--------------------------------------
+Jason Zheng (Bar)    6.00 HOURS WORKED
+  Estimated Total (Payroll)     $51.90
+  10:30:00 AM-4:30:00 PM   Tips: $0.00
+Jay Huang (Runner)   6.30 HOURS WORKED
+  Estimated Total (Payroll)     $54.50
+  10:30:00 AM-4:48:00 PM   Tips: $0.00
+Joyce Carullo       11.83 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  10:30:00 AM-10:20:00 PM  Tips: $0.00
+Nick1 Li            11.97 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  10:30:00 AM-10:28:00 PM  Tips: $0.00
+William Huang       12.03 HOURS WORKED
+  Estimated Total (Payroll)    $104.06
+  10:30:00 AM-10:32:00 PM  Tips: $0.00
+Kin Ping Ng         11.97 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  10:31:00 AM-10:29:00 PM  Tips: $0.00
+Ngan Loh            11.77 HOURS WORKED
+  Estimated Total (Payroll)    $101.81
+  10:37:00 AM-10:23:00 PM  Tips: $0.00
+Joanne Huang (Hostess) 11.67 HOURS WORKED
+  Estimated Total (Payroll)    $175.05
+  10:43:00 AM-10:23:00 PM  Tips: $0.00
+Joe Chow            11.78 HOURS WORKED
+  Estimated Total (Payroll)    $101.90
+  10:43:00 AM-10:30:00 PM  Tips: $0.00
+Alan Cheng           6.00 HOURS WORKED
+  Estimated Total (Payroll)      $0.00
+  4:30:00 PM-10:30:00 PM   Tips: $0.00
+Calvin Ho            6.50 HOURS WORKED
+  Estimated Total (Payroll)     $56.23
+  4:30:00 PM-11:00:00 PM   Tips: $0.00
+                            ==========
+Total Hours:                    107.82
+Estimated Total:               $645.44
+
+======================================
+TOTAL ORDERS COUNT:                224
+Order Number:            77220 - 77443
+======================================
+
+     Daily Start Time: 3:00:00 AM
+
+    *** END OF CLOSING REPORT ***
